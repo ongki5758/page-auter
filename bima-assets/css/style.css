@@ -1,0 +1,713 @@
+.main-title p{
+	padding-top: 20px;		
+	margin-top: 0px;
+	color: #111111;
+	font-size: 19px;
+	text-align: center;
+	font-weight: bold;
+}
+.main-title h1{
+	margin-top: 0px;
+	max-width: 890px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+	line-height: 1.3em;
+}
+.main-title{
+	padding-bottom:50px; 
+	background-color: #ebffe5;
+}
+.main-title span{
+	color: #669c5f;
+}
+.section-1 .thumbnail{
+	margin-bottom: 50px;
+}
+.section-1 .thumbnail img{
+	max-width: 900px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.section-1 .thumbnail-guaranteed img{
+	max-width: 440px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.section-2{
+	margin-top: 50px;
+	background-color: #feffe5;
+}
+.section-2 img{
+	width: 100%;
+}
+.title h2{
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 1.3em;
+}
+.title span{
+	color: #669c5f;
+}
+.title img{
+	max-width: 70px;
+	max-height: 9px;
+	margin-bottom: 10px;
+}
+.title .material-icons{
+	color: #ec6182;
+	font-size: 30px!important;
+	font-weight: bold;
+	padding-right: 15px
+}
+.title li{
+	font-family: "Roboto",sans-serif;
+	font-weight: bold;
+	margin-top: 10px;
+	list-style-type: none;
+	font-size: 29px;
+	color: #54595f;
+}
+.text p{
+	margin: 20px 0px!important;
+	color: #111;
+	font-weight: 400;
+	font-size: 19px;
+	text-align: center;
+}
+.content-1 h2{
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding-bottom: 25px;
+}
+.content-1 .title img{
+	display: block;
+	margin: auto;
+}
+.content-1 .text{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.title strong{
+	margin-bottom: 50px;
+	font-size: 19px;
+	font-weight: 700;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.content-2{
+	margin-top: 50px;
+	padding: 20px 0px;
+	background-color: #feffe6;
+}
+.content-2 h2{
+	margin-top: 0px;
+	font-size: 24px;
+	color: #111111;
+}
+.content-2 p{
+	font-family: "Roboto",sans-serif;
+	margin: 1.25em!important;
+	color: #384646!important;
+	font-size: 16px!important;
+}
+.content-2 h3{
+	margin-top: 40px!important;
+	margin: auto;
+	display: block;
+	text-align: center;
+	font-size: 25px;
+	font-weight: 700!important;
+}
+.content-2 h2,h3,p{
+	text-align: center;
+}
+.content-2 .thumbnail img{
+	margin-top: 30px!important;
+	max-width: 430px;
+	display: block;
+	margin: auto;
+}
+.content-3{
+	background-image: url(https://pasar.website/wp-content/uploads/2021/03/tea-element.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	opacity: 1;
+	transition: background .3s , border-radius .3s , opacity .3s;
+}
+.content-3 p{
+	font-family: "Roboto",sans-serif;
+	margin: 1.25em!important;
+	color: #384646!important;
+	font-size: 16px!important;
+}
+.content-3 h2{
+	font-size: 36px;
+	text-align: center;
+}
+.content-3 h3{
+	font-family: "Ubuntu",sans-serif;
+	margin-top: 40px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.content-3 .title img{
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.content-3 .thumbnail img{
+	display: block;
+	margin: auto;
+	max-width: 460px;
+}
+.content-box{
+	padding: 10px 0px;
+	background-color: #feffe6;
+}
+.content-box .text-box{
+	max-width: 860px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	border-style: dotted;
+	border-color: #ff9d9d;
+	box-shadow: 0 0 10px 0 rgb(0 0 0 / 0%);
+}
+.content-box p{
+	margin: 1.25em!important;
+	color: #384646!important;
+	font-size: 16px!important;
+}
+.content-box strong{
+	color: #111111
+	font-size:19px;
+	margin: auto;
+	display: block;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+.content-4 p{
+	font-family: "Roboto",sans-serif;
+	margin: 1.25em!important;
+	color: #384646!important;
+	font-size: 16px!important;
+}
+.content-4 .italic-style{
+	font-style: italic;
+}
+.content-4 strong{
+	color: #384646!important;
+	font-size: 16px!important;
+	font-weight: bold;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.content-4 h2{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 30px;
+	font-weight: bold;
+}
+.content-4 .thumbnail img{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.content-5{
+	padding: 20px 0px;
+	background-color: #ebffe5;
+	background-image: url(https://pasar.website/wp-content/uploads/2021/03/tea-element.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 1;
+	transition: background .3s , border-radius .3s , opacity .3s;
+}
+.content-5 strong{
+	display: block;
+	margin: auto;
+	text-align: center;
+	font-size: 16px;
+	color: #384646;
+	font-weight: bold;
+	font-style: italic;
+}
+.content-5 p{
+	color: #384646!important;
+}
+.content-6 .thumbnail img{
+	max-width: 750px;
+	margin: auto;
+	display: block;
+	text-align: center;
+}
+.content-6{
+	padding: 20px 0px;
+	background-color: #263224;
+	background-image: url(https://pasar.website/wp-content/uploads/2021/03/bg-slimtea.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	transition: background .3s , border-radius .3s , opacity .3s;
+}
+.content-6 p{
+	color: #fff;
+	font-family: "Roboto",sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+}
+.content-7 strong{
+	font-weight: bold;
+	font-style: italic;
+	color: #384646;
+	font-family: "Roboto",sans-serif;
+	font-size: 25px;
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+.content-7 h2,h3,p{
+	text-align: center;
+}
+.content-7 h3{
+	margin-top: 50px;
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 1.3em;
+}
+.content-7 h4{
+	text-align: center;
+	color: #6ec1e4;
+	font-size: 24px;
+	font-family: "Roboto",sans-serif;
+	font-weight: bold;
+}
+.content-7 .thumbnail{
+	margin-top: 50px;
+}
+.content-7 .thumbnail p{
+	margin-top: 20px!important;
+	max-width: 1100px;
+	text-align: center;
+	margin: auto;
+	display: block;
+	color: #384646;
+	font-family: "Roboto",sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+}
+.content-7 .thumbnail img{
+	display: block;
+	margin: auto;
+	max-width: 300px;
+}
+.content-8 h2,p,h3{
+	text-align: center;
+}
+.content-8{
+	margin-top: 50px;
+	background-color: #ebffe5;
+	padding: 20px 0px;
+}
+.content-8 h2{
+	margin-top: 0px;
+}
+.content-8 h3{
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 1.3em;
+}
+.content-8 p{
+	font-weight: bold;
+	color: #384646;
+	font-size: 16px;
+	font-family: "Roboto",sans-serif;
+}
+.content-8 .thumbnail img{
+	max-width: 750px;
+	display: block;
+	margin: auto;
+}
+.content-9{
+	background-color: #feffe5;
+}
+.content-9 img{
+	max-width: 326px;
+	margin: auto;
+	display: block;
+}
+.content-9 h2{
+	margin-top: 0px;
+	text-align: center;
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 1.5em;
+}
+.content-9 p{
+	color: #384646;
+	font-size: 16px;
+	font-family: "Roboto",sans-serif;
+	font-weight: bold;
+	font-style: italic;
+}
+.content-10{
+	padding: 20px 0px;
+	background-color: #52c246;
+}
+.content-10 h2{
+	margin-top: 0px;
+	color: #fff;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.5em;
+	text-align: center;
+}
+.content-10 span{
+	text-align: center;
+	margin: auto;
+	display: block;
+	font-size: 24px;
+	color: #fff;
+	font-family: "Roboto",sans-serif;
+	font-weight: bold;
+}
+.content-10 h3{
+	color: #fff82b;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.5em;
+}
+.content-10 img{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+	margin-bottom: 15px!important;
+}
+.content-10 p{
+	color: #fff;
+	font-family: "Roboto",sans-serif;
+	font-weight: 600;
+	line-height: 1.3em;
+	letter-spacing: -.5px;
+	font-size: 24px;
+}
+.content-11 .harga .title{
+	margin: 20px 80px 0px 80px;
+	padding: 1em 1em .2em 1em;
+	border-style: solid;
+	border-width: 1px 0 1px 0;
+	border-color: rgba(0,0,0,.14);
+	border-radius: 0 0 0 0;
+}
+.content-11 .text-box{
+	margin: 0 150px 0 150px;
+	background-color: #ffede8;
+	transition: background 0s;
+	border-style: dotted;
+	border-color: #8be1ff;
+	border-radius: 8px 8px 8px 8px;
+}
+.content-11 .text-box p{
+	color: #384d61;
+	font-family: "Muli",sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 1.5em;
+}
+.content-11 .text-box strong{
+	font-weight: bold;
+}
+.content-11 .diskon p{
+	color: #384d61;
+	font-family: "Muli",sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.5em;
+	margin-top: 0px;
+}
+.content-11 .thumbnail p{
+	color: #384d61;
+	font-family: "Muli",sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 1.5em;
+	margin-top: 0px;
+}
+.content-11 img{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+}
+.content-11 .diskon strong{
+	text-align: center;
+	display: block;
+	margin: auto;
+	color: #000;
+	font-family: "Roboto",sans-serif;
+	font-size: 45px;
+	font-weight: 900;
+	text-shadow: 3px 3px 0 rgb(0 0 0 / 30%);
+}
+.content-11 .harga .diskon-harga{
+	color: #384d61;
+	font-family: "Roboto",sans-serif;
+	font-weight: 600;
+	text-decoration: line-through;
+	text-shadow: 3px 3px 0 rgb(0 0 0 / 30%);
+	display: block;
+	margin: auto;
+	font-size: 39px;
+	text-align: center;
+}
+.content-11 h2{
+	margin-top: 0px!important;
+	text-align: center;
+	font-weight: normal;
+	color: #384d61;
+	font-size: 20px;
+}
+.content-11 .harga span{
+	font-weight: bold;
+	color: #384d61;
+	font-size: 20px;
+}
+.content-12 p{
+	color: #000;
+	font-family: "Roboto",sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+.content-12 h2{
+	text-align: center;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 1.3em;
+}
+.content-12 img{
+	max-width: 150px;
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+}
+.content-12 .thumbnail p{
+	color: #000;
+	font-family: "Roboto",sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	font-style: italic;
+}
+.content-13{
+	background-image: url(https://pasar.website/wp-content/uploads/2021/03/bg-slimtea.png);
+	transition: background .3s , border-radius .3s , opacity .3s;
+}
+.content-13 h2{
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 1.3em;
+	text-align: center;
+}
+.content-13 h2{
+	padding-top: 10px;
+}
+.content-13 .row{
+	margin: 0px!important;
+}
+.content-13 img{
+	margin-bottom: 20px!important;
+	max-width: 300px;
+	margin: auto;
+	display: block;
+}
+.content-14{
+	padding: 25px 0px;
+	background-color: #000;
+}
+.content-14 h3{
+	margin-top: 0px;
+	color: #fff;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 1.3em;
+	text-align: center;
+}
+.content-14 .thumbnail img{
+	display: block;
+	margin: auto;
+	max-width: 300px;	
+}
+.content-14 .thumbnail p{
+	color: #fff;
+	font-family: "Roboto",sans-serif;
+	font-size: 20px;
+	font-weight: 700;
+	font-style: italic;
+	margin-bottom: 30px;		
+}
+.content-11 .button-beli:hover{
+	background-color: #ff6f6f;
+}
+.content-11 .button-beli{
+	border-radius: 5px;
+	margin-top: 70px!important;
+	margin-bottom: 70px!important;
+	background-color: #61ce70;
+	max-width: 250px;
+	display: block;
+	margin: auto;
+	border-radius: 5px;
+}
+.content-11 .button-beli p{
+	font-family: "Roboto",sans-serif;
+	padding: 25px 50px;
+	font-size: 18px;
+	color: #fff;
+	border-radius: 5px;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+.content-14 .button-beli{
+	background-color: #f0ad4e;
+	max-width: 180px;
+	display: block;
+	margin: auto;
+	border-radius: 5px;	
+}
+.content-14 .button-beli p{
+	letter-spacing: 1px;
+	font-family: "Roboto",sans-serif;
+	padding: 20px 40px;
+	font-size: 18px;
+	color: #fff;
+	border-radius: 5px;
+	font-weight: 600;
+}
+.content-bottom .thumbnail{
+	margin: 20px 0px;
+}
+.content-bottom .thumbnail img{
+	max-width: 300px;
+	display: block;
+	margin: auto;
+}
+.content-bottom strong{
+	color: #384646;
+	font-family: "Ubuntu",sans-serif;
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 1.3em;
+	display: block;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 15px;
+}
+.footer span{
+	padding-bottom: 20px;
+	text-align: center;
+	display: block;
+	margin: auto;
+	color: rgba(255,255,255,.68);
+	font-family: "Nunito Sans",sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	text-transform: none;
+	font-style: normal;
+	line-height: 2em;
+}
+.footer{
+	padding: 20px;
+	background-color: #52c246;
+}
+img{
+	width: 100%;
+}
+.gbr300{
+	max-width: 300px!important;
+}
+@media (max-width: 600px) {
+	.main-title h1{
+		max-width: 443px;
+		font-size: 40px;
+		font-weight: bold;
+	}
+	.title h2{
+		font-weight: bold;
+		font-size: 28px;
+		text-align: center;
+		margin-top: 0px;
+	}
+	.title li{
+		font-weight: 700;
+		font-size: 27px;
+	}
+	.title .material-icons {
+		padding-right: 0px;
+	}
+	.content-11 h2 {
+		font-size: 20px!important;
+		font-weight: normal;
+	}
+	.content-11 .harga .title {
+		margin: 20px 60px 0px 60px;
+	}
+	.content-11 .text-box {
+		margin: 0 40px 0 40px;
+	}
+	.content-11 img {
+		max-width: 300px;
+	}
+	.khusus{
+		width: 90%!important;
+	}
+	/*.content-13 img {
+		padding: 10px 40px;
+		}*/
+		.cover{
+			max-width: 330px;
+			margin: auto;
+			display: block;
+			text-align: center;
+		}
+		.content-14 h3{
+			font-size: 28px;
+		}
+		.content-bottom strong {
+			font-size: 30px;
+			max-width: 440px;
+			display: block;
+			margin: auto;
+		}
+		.title img {
+			display: block;
+			margin: auto;
+		}
+		.content-box {
+			padding: 10px 15px;
+		}		
+	}
